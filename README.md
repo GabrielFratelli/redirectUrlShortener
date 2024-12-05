@@ -26,8 +26,8 @@ RedirectUrlShortener
     │   ├── java
     │   │   └── com
     │   └── resources
-└── test
-    └── java
+    └── test
+        └── java
 ```
 
 ## Dependências
