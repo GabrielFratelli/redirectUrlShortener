@@ -57,7 +57,3 @@ Certifique-se de configurar suas credenciais AWS corretamente para permitir que 
 ## Contribuindo
 
 Contribuições para o projeto RedirectUrlShortener são bem-vindas. Fique à vontade para enviar um Pull Request.
-
-<footer>
-        <p>💻 Made with ❤️ by Gabriel Fratelli</p>
-</footer>
