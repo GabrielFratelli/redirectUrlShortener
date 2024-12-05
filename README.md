@@ -22,12 +22,12 @@ Este projeto tem como objetivo fornecer um serviço simples e eficiente de encur
 RedirectUrlShortener
 ├── pom.xml
 └── src
-├── main
-│   ├── java
-│   │   └── com
-│   └── resources
+    ├── main
+    │   ├── java
+    │   │   └── com
+    │   └── resources
 └── test
-└── java
+    └── java
 ```
 
 ## Dependências
